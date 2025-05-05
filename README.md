@@ -11,7 +11,7 @@ Each letter is “discovered” in a meaningful location—be it the depths of B
 ## Read the Letters
 
 The full archive is available as a stylized static website via GitHub Pages:  
-[**Read the Archive**](https://ScrollsOfEchoes.github.io/lost-letters-dragonborn)
+[**Read the Archive**](https://ScribeOfEchoes.github.io/lost-letters-dragonborn)
 
 ---
 
